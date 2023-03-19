@@ -1,0 +1,28 @@
+#login h2{
+  text-align: center;
+  color:green;
+}
+
+#login{
+  height: 700px;
+  display: flex;
+  align-items: center;
+}
+#header{
+  background-color: blue;
+  padding: 15px 0px;
+}
+#header h2{
+  color: white;
+}
+#header button{
+  float: right;
+}
+#footer{
+  background-color: blue;
+  padding: 15px 0px;
+}
+#footer h2{
+  color: white;
+  text-align: center;
+}
